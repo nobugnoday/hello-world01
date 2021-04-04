@@ -1,7 +1,7 @@
 <template>
   <div id="app">
       <p>java0923 全体同学 行走的offer收割机</p>
-      <p>java0923 bug 杭州我来了  收割机</p>
+      <p> java0923 bug杭州我来了收割机  不忘初心</p>
       <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3101694723,748884042&fm=26&gp=0.jpg"/>
       <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=316865976,2940650346&fm=26&gp=0.jpg"/>
       <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=316865976,2940650346&fm=26&gp=0.jpg"/>
